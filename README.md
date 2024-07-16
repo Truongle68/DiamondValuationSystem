@@ -36,4 +36,4 @@ A brief description of the project.
 
 |    Nguyễn Tuấn An       |    Trần Anh Vỹ      | Nguyễn Vũ Nguyên       | Phan Văn Trường    | Phan Hoàng Nam     | Lê Phúc Trường     |
 |------------------------|-------------------------|-----------------------|--------------------------|-----------------|-------------------------|
-| UC_04 - Reset Password | UC_24 - Create Request | UC_22 - Search CertificateID  | UC_11 - Create Valuation Request  | UC_23 - Update Service  | UC_25 - Chat      |
+| UC_04 - Reset Password | UC_24 - Create Service | UC_22 - Search CertificateID  | UC_11 - Create Valuation Request  | UC_23 - Update Service  | UC_25 - Chat      |
