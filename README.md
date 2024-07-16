@@ -25,6 +25,7 @@ A brief description of the project.
 | UC_18 - Add Account  | UC_21 - Payment   |    |  |
 | UC_19 - Edit Account    | UC_13 - View Request   |    |  |
 | UC_20 - Disable Accounts    | UC_15 - Create Service   |    |  |
+|     | UC_07 - Change Password   |    |  |
 
 ## Table 2 - Sprint 1 Assignment
 
@@ -36,4 +37,4 @@ A brief description of the project.
 
 |    Nguyễn Tuấn An       |    Trần Anh Vỹ      | Nguyễn Vũ Nguyên       | Phan Văn Trường    | Phan Hoàng Nam     | Lê Phúc Trường     |
 |------------------------|-------------------------|-----------------------|--------------------------|-----------------|-------------------------|
-| UC_04 - Reset Password | UC_11 - Create Valuation Request | UC_15 - Create Service  |  UC_16 - Edit Service  | UC_22 - Search CertificateID | UC_21 - Payment      |
+| UC_11 - Create Valuation Request  | UC_04 - Reset Password | UC_15 - Create Service  |  UC_16 - Edit Service  | UC_22 - Search CertificateID | UC_21 - Payment      |
